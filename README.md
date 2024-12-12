@@ -1,4 +1,4 @@
-#Bienvenidos a mi primer proyecto con algoritmos de Machine Learning
+# Bienvenidos a mi primer proyecto con algoritmos de Machine Learning
 
 En este primer proyecto aplique un algoritmo de machine learning basico, que es la regresion lineal. Este compara una variable dependiente para validar si hay una relacion con otra variable independiente. Para que
 a partir de esta ultima se puedan realizar predicciones con datos no vistos por el modelo.
